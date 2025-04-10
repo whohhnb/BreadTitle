@@ -21,7 +21,7 @@ bread:
 ### 权限
 
 ```
-breadtitle.color:
+  breadtitle.color:
     default: false
     description: 允许使用颜色代码
   breadtitle.admin:
