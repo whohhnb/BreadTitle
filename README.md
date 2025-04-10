@@ -31,7 +31,7 @@ breadtitle.color:
 ```
 ### 命令
 
-`/brt` （主命令）
-`/brt give [玩家]` （给予玩家称号物品）
-`/brt reload` （重载配置文件）
-`/brt name` （跳过铁砧步骤，直接改名）
+`/brt` （主命令）\
+`/brt give [玩家]` （给予玩家称号物品）\
+`/brt reload` （重载配置文件）\
+`/brt name` （跳过铁砧步骤，直接改名）\
