@@ -1,6 +1,7 @@
 ### 关于
 
-让你的玩家吃掉它获得称号吧！通过Luckperms API来添加删除玩家的前缀！，支持修改Lore和Name
+让你的玩家吃掉它获得称号吧！通过Luckperms API来添加删除玩家的前缀！\
+支持修改Lore和Name
 
 ### 配置文件
 
@@ -14,7 +15,7 @@ bread:
 
 ### 兼容性
 
- 兼容 Minecraft 1.20以上的所有版本，不支持Folia
+ 兼容 Minecraft 1.20以上的所有版本，不支持Folia\
  需要前置 LuckPerms 5.4以上！
 
 ### 权限
