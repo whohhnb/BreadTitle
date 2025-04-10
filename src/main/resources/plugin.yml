@@ -1,0 +1,18 @@
+name: BreadTitle
+version: 1.4.3
+main: cn.whohh.BreadTitlePlugin
+depend: [LuckPerms]
+api-version: 1.20
+commands:
+  brt:
+    description: 称号食物主命令
+    usage: /brt [give|reload|name]
+    permission: breadtitle.admin
+permissions:
+  breadtitle.color:
+    default: false
+    description: 允许使用颜色代码
+  breadtitle.admin:
+    default: op
+    children:
+      breadtitle.color: true
