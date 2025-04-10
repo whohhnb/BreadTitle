@@ -1,4 +1,4 @@
-### 关于
+### 关关关关关关关关关于
 
 让你的玩家吃掉它获得称号吧！通过Luckperms API来添加删除玩家的前缀！\
 支持修改Lore和Name
@@ -29,3 +29,9 @@ breadtitle.color:
     children:
       breadtitle.color: true
 ```
+### 命令
+
+`/brt` （主命令）
+`/brt give [玩家]` （给予玩家称号物品）
+`/brt reload` （重载配置文件）
+`/brt name` （跳过铁砧步骤，直接改名）
